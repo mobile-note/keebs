@@ -1,38 +1,28 @@
 # KEEBS LINKS
 
-## Brands
+## 국내
 
-## Keyboards
+- [스웨그키](https://smartstore.naver.com/swagkey)
+- [렛츠기릿](https://smartstore.naver.com/letsget1t)
+- [몬스타기어](https://www.monstargear.co.kr/) | 
+  [공홈](https://www.monstargear.co.kr/) | [스마트스토어](https://smartstore.naver.com/monstarkorea)
 
-### TKL
+## 커뮤니티/소식통
 
-### Alice
+- [KeebNews](https://keebnews.com/)
 
-### 75%
+## 키보드 브랜드 목록
 
-### 70%
+- [키크론](https://www.keychron.com/)
+- [Angry Miao](https://www.angrymiao.com/)
+- [MODE DESIGNS](https://modedesigns.com/)
+- [Geist Maschine](https://geistmaschine.io/)
+- [DEADLINE Studio](https://deadline.space/)
+- [Rama Works](https://rama.works//)
+- [KBDFans](https://kbdfans.com/)
+- [Nuphy](https://nuphy.com/)
+- [Drop](https://drop.com/mechanical-keyboards/home)
+- [QWERTY Keys (OwlLab)](https://www.qwertykeys.com/)
 
-## Keycaps
 
-### OSA/SA
-
-### Cherry
-
-### Artisan
-
-### Metal
-
-## Tools
-
-## Others
-
-## KR Links
-
-국배 판매자 / 쇼핑몰
-
-1. 스웨그키
-- 공홈: https://www.swagkey.kr/
-- 스마트스토어: https://smartstore.naver.com/swagkey
-
-2. 렛츠기릿
-- 스마트스토어: https://smartstore.naver.com/letsget1t
+## 키캡 브랜드 목록
