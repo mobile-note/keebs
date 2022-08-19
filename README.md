@@ -18,11 +18,13 @@
 - [MODE DESIGNS](https://modedesigns.com/)
 - [Geist Maschine](https://geistmaschine.io/)
 - [DEADLINE Studio](https://deadline.space/)
-- [Rama Works](https://rama.works//)
+- [Rama Works](https://rama.works/)
 - [KBDFans](https://kbdfans.com/)
 - [Nuphy](https://nuphy.com/)
 - [Drop](https://drop.com/mechanical-keyboards/home)
 - [QWERTY Keys (OwlLab)](https://www.qwertykeys.com/)
-
+- [OMNITYPE](omnitype.com)
+- [Treasure Types](https://treasuretypes.com/)
+- [JKeys Design](https://jkeys.design/)
 
 ## 키캡 브랜드 목록
