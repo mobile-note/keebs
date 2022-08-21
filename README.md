@@ -26,5 +26,9 @@
 - [OMNITYPE](omnitype.com)
 - [Treasure Types](https://treasuretypes.com/)
 - [JKeys Design](https://jkeys.design/)
+- [Werk Technica](http://discord.gg/jmwcxvn)
 
 ## 키캡 브랜드 목록
+- [Arkey](https://www.arkeys.id/)
+- [ESC Lab](https://www.esclab.co/)
+- [Thock Design](https://thok.design/)
