@@ -29,6 +29,9 @@
 - [Werk Technica](https://www.werktechnica.com)
 - [Keeb Monkey](https://www.keebmonkey.com/)
 - [Sneakbox](https://sneakbox.com/)
+- [CannonKeys](https://cannonkeys.com/)
+- [FoxLabs](https://foxlab.store/)
+- [BahmStudio](https://bahmstudio.com/)
 
 ## 키캡 브랜드 목록
 - [Arkey](https://www.arkeys.id/)
